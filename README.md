@@ -1,8 +1,4 @@
-# 横浜国立大学
-
-# 大学祭実行委員会
-
-# 技術部局
+# 横浜国立大学 大学祭実行委員会 技術部局
 
 ## About us
 
@@ -20,7 +16,7 @@
 
 ## Our Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,js,ts,golang,sass,gcp,firebase,git,github,githubactions,docker,vscode,webstorm,notion,figma&perline=4)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nuxtjs,vue,js,ts,golang,sass,gcp,firebase,git,github,githubactions,docker,vscode,webstorm,notion,figma&perline=4)
 
 ## Join us!
 
