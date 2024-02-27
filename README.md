@@ -26,3 +26,6 @@
 
 大学祭実行委員会は、新歓期 (3月～4月) で新入生を募集しています！詳細は公式 X アカウントをチェック！
 
+[![x-ynu_fes](./x-ynu_fes.png)](https://x.com/ynu_fes)
+
+[![x-shinkan](./x-shinkan.png)](https://x.com/ynufes_shinkan)
